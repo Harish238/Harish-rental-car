@@ -1,0 +1,13 @@
+.navbar {
+    overflow: hidden;
+    background-color:white;
+  }
+  
+.navbar a {
+    float: right;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 6px 30px;
+    text-decoration: none;
+  }
